@@ -1,0 +1,17 @@
+#date{
+    border: black solid ;
+    height: 50px;
+    text-align: center;
+}
+#nbMois{
+    border: black solid;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.nb{
+    width: 13.96%;
+    height : 50px;
+    border: black solid;
+
+}
